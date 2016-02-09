@@ -1,0 +1,38 @@
+'QUADRATURA PARABOLAE. 353
+
+simul spatia. minora esse quam tertia parte maiora
+maximo [prop. 23]. spatium autem K tertia parte
+maius est maximo spatio. itaque segmentum A Δ Β ΕΓ
+maius non est spatio K. — sit autem, si fieri potest,
+minus. ponatur igitur ABF=== ΖΙ), H=‡z, &==‡H‚
+et deinceps spatia ponantur, dum fiat ultimum spatium
+minus excessu, quo spatium K segmentum excedit [Euol.
+X, 1], et [hoo excessu] minus sit I. sunt igitur
+Z÷H÷ffl414251=32 [prop. 23];
+sed erat etiam K π ᾒ-Ζ. itaque
+ΚπΖ-Ι-Η-Ι-Θ-Ι-Ι-Ι-ᾗΙ.
+
+iam quoniam spatium K spatia Z, H, Θ, Ι excedit
+spatio minore, quam est spatium Ι, segmentum uero
+spatio maiore, quam est I, adparet, spatia Z, H, Θ, I
+maiora esse segment03 quod fieri non potest. nam
+demonstratum est, si spatia quotlibet deinceps data
+sint in quadrupla proportione, et maximum triangulo
+segmento inscripto aequale sit, omnia simul spatia
+>minora fore segmento [prop. 22]. itaque segmentum
+Α Λ Β ΕΓ minus non est spatio K. demonstratum
+autem est, id ne maius quidem esse. itaque spatio
+
+K aequale est. sed spatium K tertia parte maius est
+triangulo ΑΒΓ. itaque etiam segmentum ΑΔΒΕΓ
+tertia parte maius est triangulo A ΒΓ.
+
+ 
+
+1) Fortasse scribendum est lin. 4-5 κείσθω δὴ τῷ μὲν
+ΑΒΓ τριγώνῳ ἴσον τὸ Ζ.
+
+ 
+
+Archimedes, οδ.. Eeiberg. 11. 23
+

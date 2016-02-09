@@ -1,0 +1,41 @@
+440 LIBER ASSUMPTORUM.
+
+utique omnia quadrata AE, ΒΕ, ΕΟ, ΕΒ aequalia
+quadrato diametri.
+
+educamus diametrum AF, et iungamus lineas ΑΟ,
+AD, ΟΕ, ΒΒ. et quia angu-
+lus ΑΕΒ est rectus, erit aequa-
+
+et angulus ADO' aequalis 21⁸0,
+eo, quod sunt super arcum ΑΟ
+
+ 
+
+duobus triangulis ΔΒΕ, ΑΕΟ
+,’ duo anguli ΟΑΕ, DAE aequa-
+les. erunt pariter duo arcus ΟΕ, ΒΒ aequales [Eucl.
+ΙΠ, 26], immo et duae chordae eorum aequales [Eucl.
+ΠΙ, 29], et duo quadrata DE, ΕΒ aequantur qua·
+drato ΒΒ [Eucl. I, 47], nempe ΟΕ, et duo quadrata
+AE, ΕΟ aequantur quadrato CA, et duo quadrata ΟΕ,
+ΟΛ aequantur quadrato FA, nempe diametri. igitur
+quadrata AB, ΕΒ, ΟΕ, ΕΒ omnia sunt aequalia qua·
+drato diametri. et hoc est, quod noluimus.
+
+XII.
+
+Si fuerit semicirculus super diametrum AB , et
+eductae fuerint ex Ο duae lineae tangentes illum in
+duobus punctis D, Ε, et iunctae fuerint EA, ΒΒ se
+mutuo secantes in F, et iuncta fuerit ΟΕ, et produ-
+catur ad G, erit OG perpendicularis ad AB.
+
+iungamus DA, ΕΒ. et quia angulus BDA est
+rectus [Eucl. ΠΙ, 31], erunt duo anguli DAB, DBA
+reliqui in triangulo DAB aequales uni rect03 et an-
+gulus AEB rectus. igitur sunt aequales ei. et po·
+namus angulum ΕΒΕ communem3 ambo anguli DAB,
+
+[Euel.111, 27]· et remanent in 3
+

@@ -1,0 +1,46 @@
+DE PLANORUM AEQUILIBRIIS II. 199
+
+‚lineas MN, ‘201 similiter diuident.¹) et etiam trian-
+gulorum ΗΒ Θ, Χ ΟΨ centra grauitatum in lineis BN,
+OQ similiter posita erunt.2) itaque trapezia et trian-
+guli eandem rationem habent.·⁹’) adparet igitur4), etiam
+totius figurae rectilineae segmento ΑΒΓ inscriptae
+centrum grauitatis lineam BA similiter diuidere ac
+figurae segmento ΞΟΠ inscriptae-centrum grauitatis
+lineam 0P; quod erat demonstrandum.⁵) .
+
+IV.
+
+Cuiusuis segmenti comprehensi linea recta et sec-
+tione coni rectanguli centrum grauitatis in diametro
+segmenti positum est.
+
+sit ΑΒΓ segmentum, quale diximus, cuius diame-
+trus sit BA. demonstrandum, segmenti illius centrum
+grauitatis in linea BA positum esse.
+
+nam si non est, sit E, et per id lineae BA par-
+allela ducatur linea Ez„ et segmento inscribatur
+triangulus ΑΒΓ eandem basim habens et altitudinem
+aequalem. et sit ΓΖεΔ Ζ =A B Γ z K. praeterea figura
+rectilinea segmento proprie inscribatur, ita ut seg-
+menta reliqua spatio K minora sint [u. Eutocius].
+itaque figurae rectilineae inscriptae centrum grauitatis
+in linea BA positum est [prop. 2]. sit punctum Θ,
+et ducatur linea ΘΕ et producatur, et lineae BA par-
+
+ 
+
+1) cfr. p. 197 not.. 2.
+
+2) Ex Ι, 14 et Eutocio ad I, 15.
+
+3) Nam cum trapezia respondentia et triangula similia
+sint, eas rationes habent, quas latera quadrata (Eucl. VI, 20)
+3: ΑΓ2 = 511², EK¹ ε ΣΤῖ cett, quae aequales sunt.
+
+4) Ex I, 6-7. omnino u. Nimius,
+
+5) Hanc propositionem etiam de segmentis non similibus
+ueram esse, ostendit Nizzius p. 30 θ.
+

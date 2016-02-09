@@ -1,0 +1,46 @@
+QUADRATURA PARABOLAE. 337
+
+ducatur autem ΕΘ diametro parallela‚ et etiam a
+puncto B diametro parallela ducatur BA, et a Γ linea
+ΓΔ coni sectionem in puncto Γ contingens. quoniam
+igitur linea Κ Θ diametro parallela est, ΓΔ autem
+sectionem in Γ contingit, et ΕΓ lineae sectionem in
+Θ contingenti parallela est, erit ΒΔ Γ -- 4ΒΘΓ.1) et
+quoniam triangulus ΒΔ Γ triplo maior est segmento
+ΒΘΓ [prop. 16], et quadruplo maior triangqu ΒΘΓ,
+
+adparet, segmentum ΒΘΓ tertia parte maius esse trian—
+gulo ΒΘΓ.
+
+Segmentorum linea recta et curua aliqua linea
+comprehensorum basim uoco lineam rectam, altitu-1
+dinem autem maximam earum linearum, quae a curua'
+linea ad¹ basim perpendiculares ducantur, uerticem
+
+autem punctum, unde perpendicularis maxima ducatur. -
+
+XVIII.
+
+Si in segmento linea recta et coni rectanguli sec-
+tione comprehenso a media basi linea diametro par-
+allela ducitur, uertex segmenti erit punctum, in quo
+linea diametro parallela coni sectionem secat.²)
+
+sit enim ΑΒΓ segmentum linea recta et coni
+rectanguli sectione comprehensum, et a media linea
+ΑΓ ducatur AB diametro parallela. quoniam igitur
+in sectione coni rectanguli linea BA diametro Ῥειτ-
+
+ 
+
+1) Nam EK213A == EP:BP==1:2; Sed ΕΘΞΘΚ
+(prop. 2). et ΒΘΓε ΒΓΔ ..-= ΕΘ z BA (Zeitschr. f. Math„ hist.
+Abth. XXIV p. 178 nr. ⁷) = 1 ε 4.
+
+2) Linea AB diametrus segmenti erit (cfr. Zeitschr. f„-
+Math„ hist. Abth. XXV . 44 et p. 51 nr. 14). tum cfr. Apol-
+lon. I def. 113 κορυφὴν ὃς τῆς ’gozgangiam- γραμμῆς τὸ πέρας τῆς,
+εὐθείας (h. e. τῆς διαμέτρου) το προς τῃ γραμμῃ.
+
+Archimedes‚ ed. Heiberg. Π. 22
+

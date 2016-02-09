@@ -1,0 +1,28 @@
+DE PLANORUM AEQUILIBRIIS etc. 151
+
+sint tres magnitudines A, B, Γ, et centra graui·
+tatis earum A, B, Γ puncta in eadem linea recta
+posita. et magnitudines A, B, Γ aequales sint, et
+lineae A Γ, ΓΒ aequales, dico, magnitudinis ex omni-
+bus magnitudinibus compositae centrum grauitatis esse
+punctum Γ. ,
+
+nam quoniam magnitudines A, B aequale pondus
+habent, centrum grauitatis erit punctum Γ, quoniam
+ΛΓ = ΓΒ [prop. 4]. sed Γ etiam magnitudinis Γ
+centrum grauitatis est. adparet igitur, etiam magni-
+tudinis ex omnibus compositae centrum grauitatis
+fore punctum, quod idem mediae magnitudinis cen-
+trum grauitatis est.
+
+COROLLARIUM 1.
+
+Hinc manifestum est, quotcunque magnitudinum
+imparium numero centra grauitatis in eadem linea
+recta posita sint, si et magnitudines aequali spatio
+a media distantes aequale pondus habeant, et lineae
+inter centra earum positae aequales sint, magnitu-
+dinis ex omnibus magnitudinibus compositae centrum
+grauitatis fore punctum, quod idem mediae earum
+centrum grauitatis sit.
+

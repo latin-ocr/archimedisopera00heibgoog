@@ -1,0 +1,47 @@
+DE LINEIS SPIRALIBUS. 23
+
+V.
+
+Dato circulo et linea. circulum contingenti fieri
+potest, ut a centro circuli ad contingentem linea du-
+catur, ita ut linea inter contingentem et ambitum cir·
+culi posita ad radium eam rationem habeat, quam
+ambitus circuli inter punctum contactus et lineam pro·
+ductam positus ad quemlibet datum ambitum circuli.
+
+datus sit circulus ΑΒΓ, et centrum eius sit K, et
+A Ζ circulum in Β contingat. datus sit etiam qui-
+libet ambitus circuli. fieri igitur potest, ut sumatur
+linea aliqua dato ambitu maior [prop. 3] ‚ et sit. E
+dato ambitu maior. ducatur autem a centro K lineae
+ΔΖ parallela linea AH, ‘et ponatur ΗΘ line'a lineae
+E aequalis ad punctum Β uergens ¹), et [linea] a K
+
+ 
+
+B puncto ad Θ ducta produca-
+tur. erit igitur
+Δ B Ζ ΘΖεΘΚῧΒΘιΘΗὲ)
+
+itaque ΖΘε ΘΚ minorem ra.-
+tionem habet, quam ambitus
+ΒΘ ad datum ambitum, quia
+Π linea ΒΘ minor est ambitu
+
+ΒΘ [de sph. et cyl. I λαμβ. 1
+
+p. ‘8], et linea, ΘΗ [quia
+lineae E aequalis est] maior ambitu dato [cfr. Eucl.
+V, 8]. itaque ΖΘ ad radium minorem rationem habet,
+quam ambitus Β Θ ad datum ambitum.
+
+   
+
+ 
+
+1) Quod quo modo fieri possit, Archimedes non dicit3 cfr.
+zeitschr. f. nath„ hist. Abth. XXV p. 66 nr. 3.
+
+2) Nam cum ΔΖ ss ΑΗ, erit L ΒΖΘ == 8KH3- et
+quare ΒΘΖ Ν Rem tuLmeffizlfVGIfli·
+

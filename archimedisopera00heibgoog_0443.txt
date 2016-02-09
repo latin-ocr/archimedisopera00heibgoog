@@ -1,0 +1,47 @@
+LIBER ASSUMPTORUM. 431
+
+1 positionibuS‚ quas confecimus de rectangulis. ¹) et quia
+
+in triangulo GAO linea ΒΕ educta est parallela basi,
+et iam educta est ex D semipartitione basis linea DA
+secans parallelum in F, ‘ erit BF aequalis ipsi ΓΕ
+[ib. p. 178 nr. 3]‚ et hoc est, quod noluimus.
+
+III.
+
+Sit CA segmentum circuli, et B punctum super
+illud ubicunque, et BD perpendicularis super AG, et
+segmentum DE aequale DA, et arcus BF aequalis
+arcui BA, utique iuncta OF erit aequalis ipsi GEJ)
+
+Demonstratio. iungamus lineas AB, B F, FE, ΕΒ.
+et quia arcus BA aequa-
+lis est arcui BF, erit AB
+aequalis BF. et quia-AD
+aequalis est ΕΙ), et duo
+anguli D sunt recti, et
+
+¹ D l 6⁷ DB communis, ergo AB
+aequalis est BE [Eucl. I, 4] , et propterea BF, BE
+'sunt aequales, et duo anguli ΒΓΕ, BEF sunt aequa-
+les. et quia quadrilaterum GFBA est in circulo, erit
+angulus GFB cum angulo GAB ipsi opposit0‚ immo
+cum angulo BEA, aequalis duobus rectis [Eucl. III,
+22]. sed angulus CER cum angulo BEA aequales
+sunt duobus rectis. ergo duo anguli· GFB, CER
+
+  
+
+ 
+
+1) Talem librum Archimedes non scripsit. rem ipsam sic
+demonstrat Almochtasso: quiaBD=D0‚ erit LDGBaDB 03
+sed DBO -Ι- ΒΒΘ == 90⁰ === DGB † GGB. itaque
+
+DBG =-= 0613 siue BD ει DG τε ΒΟ.
+
+2) cfr. Ptolemaeus om. Ι, 9 p. 31 ed. Halma. in figura
+gichilpliis §3133 semicirculus est, sed proportio de quauis arcu
+
+-ω —-- -—-·-. -μ--ι--ια- ——-..„----—--—— - -—-
+

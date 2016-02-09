@@ -1,0 +1,41 @@
+434 LIBER ASSUMPTORUM.
+
+rent AF, GE in D eo, quod egrediuntur ab angulis
+A, Ο minoribus duobus rectis [Eucl. Ι ast. 5J. et iun-
+gamus etiam FE, EB3 ergo EFB est etiam recta,
+' uti diximus [prop. 1], et est perpendicularis super AD
+
+eo, quod angulus ΑΕΒ est rectus, quia cadit in
+semicirculum AB [Eu01.'111‚ 31]. et iungamus H G,
+6403 erit H Ο etiam recta. et iungamus EG, GA3 erit
+EA recta [u. p. 430 not. 1]; et producamus eam ad
+Ι et iungamus BI, quae sit etiam perpendicularis su-
+per AI [Euel. 111, 31]. et iungamus DI. et quia
+AD, AB sunt duae rectae, et educta ex D ad lineam
+AB perpendicularis DG et ex B ad DA perpendicu-
+laris BF, quae se mutuo secant in E, et educta AE ad
+Ι est perpendicularis super BI, erunt BID rectae, quem·
+admodum ostendimus in propositionibus, quas confeci—
+mus in expositione tractatus de triangulis reetangulis.¹)
+et quia duo anguli AGG, AI B sunt recti, utique BD,
+OG sunt parallelae [Eucl. Ι, 28], et proportio AD ad
+BH, quae est ut AG ad HE2), est ut proportio AB
+ad BOE) ergo reetangulum AG in OB aequale est
+reetangulo AB in HE [Eucl. VI , 16]. et similiter
+demonstratur in circulo LM N, quod rectangulum AG
+
+ 
+
+1) Uidetur significari commentarium nescio euius in Archi-
+medis librum de triangulis rectangulis ab Arabibus solis com-
+memoratum (Quaest. Arch. p. 30); idem fortasse significatur in
+prop. 2. demonstrationem dedit Almochtasso praemissa pro-
+positione notissima, altitudines trianguli acutianguli in eodem
+puncto concurrere. ne sit igitur BI D recta3 ducatur alia linea,
+quae AI in m secet3 erit LAmD ει 90⁰3 sed LAID ε- 9003
+itaque AmD == AI D, quod fieri non potest3 demonstrationem
+eandem de quouis triangulo ualere, ostendit Nizzius p. 25⁷. “
+
+2) Zeitsehr. f. Math„ hist. Abth. XXIV p. 178 nr. 4.
+3) Ex Euel. VI, 2 componendo.
+

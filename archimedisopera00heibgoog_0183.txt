@@ -1,0 +1,38 @@
+DE PLANORUM AEQUILIBRIIS ete. 171
+
+dieo, etiam N punctum centrum grauitatis esse trian-
+guli A E Z.
+
+nam ne sit, sed si fieri potest, punctum H centrum
+grauitatis sit trianguli A EZ. et ducantur lineae ΘΑ,
+ΘΒ, ΘΓ, ΔΝ, ΕΝ, ΖΝ, ΔΗ, ΕΗ, ΖΗ. iam quoniam
+similes sunt trianguli ΑΒΓ, Δ ΕΖ , et centra graui-
+tatis sunt puncta Θ, Η, et similium figurarum centra
+grauitatis similiter posita sunt [postul. 4]‚ ita ut sin-
+gula eum singulis lateribus inter se respondentibus
+aequales angulos efficiant [postul. 5]‚ erit igitur
+
+LHAE = ΛΘΑΒ.
+
+sed LffiAB=LEAN‚ quia puncta Θ, Ν similiter
+posita sunt [postul. 5]. quare etiam angulus ΕΔ Ν
+aequalis est angulo ΕΔΗ, maior minori3 quod fieri
+non potest. quare fieri non potest, ut N punctum
+centrum grauitatis trianguli Δ Ε Ζ non sit. est igitur.
+
+Si dati sunt duo trianguli similes, alterius autem
+trianguli centrum grauitatis in ea linea positum est,
+quae ab angulo aliquo ad mediam basim¹) dueta est,
+etiam reliqui trianguli centrum grauitatis in linea
+similiter dueta positum erit.
+
+duo trianguli sint ΑΒΓ, ΔΕΖ, et sit
+
+ArzAz=A32AE=BF22E
+[cfr. p. 169 not. 3]. et linea ΑΓ in puncto H in
+duas partes aequales diuisa dueatur linea ΒΗ, et
+
+ 
+
+1) H. e. latus angulo oppositum.
+

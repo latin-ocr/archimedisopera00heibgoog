@@ -1,0 +1,37 @@
+436 LIBER ASSUMPTORUM.
+
+quia in triangulo ΑΕΖ) AG est perpendicularis ad
+ΕΒ, et DI est quoque perpendicularis ad ΑΕ, et
+iam se mutuo secuerunt in M, ergo ΕΜΟ erit etiam
+perpendicularis, quemadmodum ostendimus in exposi-
+tione, quam confecimus de proprietatibus triangulo-
+rum, et cuius demonstratio iam quidem praecessit in
+superiori propositione [p. 434 not. 1]. similiter quo-
+que erit FP perpendicularis super ΟΑ, et quia duo
+anguli, quisunt apud L et B, sunt recti, erit DL
+parallelo, ipsi AB, et pariter DI ipsi ΟΒ. igitur
+proportio AD ad Do est ut proportio AM ad ΕΜ
+
+[Eucl. VI, 2] ‚ immo ut proportio ΑΟ ad ΟΡ, et pro· -
+
+portio OD ad DA ut proportio ΟΝ ad NE, immo
+ut proportio ΟΡ sd ΡΟ. et erat AD sesquialtera
+1303 ergo ΑΟ est sesquialtera ΟΡ et ΟΡ sesquialtera
+ΟΡ. ergo tres lineae Ao, ΟΡ, ΡΟ sunt proportio-
+nales, et in eadem mensura, in qua est ΡΟ quattuor,
+erit ΟΡ sex‘, et ΑΟ nouem, ct ΟΑ nouendecim. et
+quia ΡΟ aequalis est EF, erit proportio ΑΟ ad EF
+ut nouendecim ad sex. igitur reperimus dictam pro-
+portionem. etiam si fuerit AD ad Do qualiscunque,
+ut sesquitertia aut sesquiquarta aut alia, erit iudicium
+et ratic, uti dictum est. et hoc est, quod noluimus.
+
+VII.
+
+Si circ'ulus circa quadratum descriptus fuerit, et
+alius intra illum , utique erit circumscriptus duplus
+inscripti. sit itaque circulus comprehendens quadratum
+AB circulus AB, et inscriptus OD, et sit diameter
+quadrati AB, ct est diameter circuli circumscripti, et
+educamus ΟΒ diametrum circuli inscripti parallelum
+

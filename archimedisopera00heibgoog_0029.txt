@@ -1,0 +1,26 @@
+DE LINEIS SPIRALIBUS. 17
+
+in tempore ΛΗ. quoties autem linea ΔΕ in linea AB
+continetur, toties contineatur tempus ΘΗ in tempore
+KH. iam quoniam suppositum est, punctum in linea
+AB aequabiliter ferri, adparet, quo tempore lineam
+ΓΔ permeat, eo etiam singulas lineae ΓΔ aequales
+permeare. manifestum igiturest, punctum illud etiam
+lineam compositam A A eo tempore permeare, quan-
+tum est tempus A H, quoniam, quoties linea ΓΔ in
+linea A A continetur, toties continetur tempus ZH
+in tempore ΛΗ. eedem igitur de causa etiam lineam
+Β Δ eo tempore permeat punctum, quantum est tempus
+KH. iam quoniam AA> BA, adparet, punctum longiore
+tempore lineam AA permeare quam lineam BA.
+quare erit A H> K H. et eodem modo demonstrabimuS,
+etiam si ex temporibus ZH, ΗΘ tempora componantur,
+quotiescumque· in iis illa tempora contineantur, ita ut
+alterum excedat alterum, etiam linearum ex lineis
+ΓΔ, ΔΕ toties sumptis, quoties tempora ZH, H Θ,
+compositarum eam excedere alteram, quae tempori
+excedenti respondeat. adparet igitur, esse ΓΔ : A E
+-·- ΖΗ : ΗΘ [Eucl. V def. 5].
+
+Archimedes ed. Heiberg. 11. 2
+

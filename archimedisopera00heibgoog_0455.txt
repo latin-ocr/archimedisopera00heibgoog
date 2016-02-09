@@ -1,0 +1,41 @@
+LIBER ASSUMPTORUM. 443
+
+lineas AO, OD, DB semicirculi, et sit centrum duo-
+rum semicirculorum AB, OD punctum Ε, et sit EF
+perpendicularis super AB, et producatur ad G, utique
+circulus, cuius diameter est FG, aequalis est super-
+ficiei coiitentae a semicirculo maiori et a duobus se·
+micirculis, qui sunt intra illum, et a semicirculo me-
+dio, qui est extra illum, et est figura , quam uocat
+Archimedes Salinon.¹)
+quia DC bifariam secatur in E, et addita est illi
+CA, erunt duo quadrata DA, UA dupla duorum qua·
+f -ss dratorum DE, EA
+[Eucl. ΙΙ, 10]. sed
+FG aequalis est ipsi
+DA.²) ergo duo qua·
+drata FG, AG dupla
+p sunt duorum quadra-
+torum DE, EA. et
+quia AB dupla est
+AE, et OB dupla
+quoque ED, erunt
+duo quadrata AB, DC quadrupla duorum quadrato·
+rum DE, EA, immo dupla duorum quadratorum GF,
+AO. similiter etiam duo circuli, quorum diametri nunt
+AB, Do, dupli sunt eorum, quorum diametri sunt
+GF, AO [p. 433, 1], et dimidii eorum, quorum dia-
+metri sunt AB, OD, aequales duobus circulis, quo-
+
+ 
+
+ 
+
+1) Haec propositio fortasse re uera Archimedis est. quid
+Salinon si t, uerbum si ne dubi o ab Arabibus dep matum, du-
+bito. pro σελίν νιον accepit Barrowius p. 2⁷5. οοιιῒτο, Mauritius
+Cantor 1. c. ab σάλος deriuat („ Wellenlinie‘ ‘.) ipse de uerbo
+
+σε ἑιλ ινον cogitaui (ez similitudine frondis apii).
+2) Nam GF=GE÷EF==AE÷ED= AD.
+

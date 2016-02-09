@@ -1,0 +1,40 @@
+QUADRATURA PARABOLAE. · 311.
+
+spatio Λ, et triangulus ΒΓΔ eum Z -Ι- Λ aequilibri·
+tatem seruat, et tertia pars est trianguli ΒΔΓ spa-
+tium Z -l- A [et trianguli ΒΗΓ spatium A] ι), mani·
+festum est, triangulum ΓΔΗ triplo maiorem esse
+spatio Z.
+
+VIII.
+
+Libra sit ΑΓ, et medium eius punctum Β, et ex
+puncto Β suspendatur, ΓΔ Ε autem triangulus sit
+rectangulus angulum ad Ε positum rectum habene,
+et in libra ex punctis Γ, Ε suspendatur, et spatium
+Z ex A suspendatur et eum ΓΔΕ ita se habenti, ut
+nune positus est, aequilibritatem seruet. et sit
+
+A'13213E=1”AE2K.
+dico igitur, spatium Z· minus esse triangulo ΓΔΕ
+maius antem spatio K.
+
+sumatur enim trianguli ΔΕΓ centrum grauitatis
+et sit Θ [p. 306, 18], et ducatur ΘΗ lineae ΔΕ par-
+allela. iam quoniam triangulus ΓΔΕ cum spatio Z
+aequilibritatem seruat, erit ’
+
+ΓΔΕτ Ζ = AB : BH [ἐπιπ. ἰσορρ. Ι, 6-7].
+quare Z < ΓΔΕ. et quoniam est
+PAE: Z = BA: BH
+
+et PAE: K =''BA ε ΒΕ [ex hypothesi], adparet, esse
+ΓΔΕ t K > ΓΔΕ : Z. quare Z > K [Eucl. V, 10].
+
+ 
+
+1) Fortasse lin. 2 addendum est: τοῦ δὲ ΒΓΗ τὸ Λ.
+
+p. 309 not. 1); om. F, uulgo, 7. τῷ] scripsi3 ταν F, uulgo;
+τό TorelliuS. 24. ἔχει] εχον F3 corr. len.
+

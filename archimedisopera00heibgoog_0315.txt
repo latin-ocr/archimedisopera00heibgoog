@@ -1,0 +1,41 @@
+QUADRATURA PARABOLAE. 303
+
+enim demonstratum est ¹) [prop. 3]. erit igitur
+BF: BI -—- BI’2213e2.²)
+quare lineae ΒΓ, ΒΘ, BI proportionales sunt³); quare
+erit BI': ΒΘ =-- 1³85 UH) erit igitur
+ΓΔ z AZ = ΘΖ t ΘΗ.5)
+sed AA = ΔΓ. adparet igitur, esse
+AAzAzazffizcffl.
+
+V.
+Sit ΑΒΓ segmentum linea recta et sectione coni
+
+rectanguli comprehensum, et ducatur a puncto A dia· .
+
+metro parallela linea zA‚ et a Γ linea ΓΖ sectionem
+coni in puncto Γ contingens. iam si linea. aliqua
+in triangulo ΖΑΓ lineae Α Ζ parallela ducitur, in ea-
+dem ratione et linea ducta a. sectione coni rect-anguli
+et ΑΓ a ducta linea secabitur3 et pars lineae ΑΓ ad
+A sita respondebit parti ductae lineae ad A sitae.
+ducatur enim linea aliqua Δ Ε lineae AZ paralleled,
+et primum linea ΔΕ lineam ΑΓ in duas partes ae·
+quales secet. iam quoniam ΑΒΓ sectio est coni rect-
+anguli‚ et BA diametro parallela, et A A = Δ Γ, erit
+linea. in puncto B sectionem coni rectanguli contingens
+
+ 
+
+1) Sc. a. prioribus, ἐν τοῖς κωνικοῖς στοιχείοιςς neque enim
+ΞΪΔΡΣῙΞ It} demonstratum est. debuit esse ΑΔ* : Κ Η ², sed
+
+2) Nam BA z BK= BI': Bl (Eucl. VI, ⁶2) et
+AP:KH=AP:ZA=BF=BG,
+quia BA ψ ΖΘ (Eucl. VI, 2).
+3) H. e. BF: ΒΘ == 38:131 (Eucl. V def. 10).
+4) ἐναλλάξ, συνθέντι, ἐναλλάξ ex ΒΓ = ΒΘ === 38231.
+5) ‘Nam BF: ΒΘ = ΓΔ 2 ΔΖ, quia BA ss ΘΖ, et
+P6261—OZ=OH‚
+quia HI = ΑΓ (Eucl. VI, 2).
+

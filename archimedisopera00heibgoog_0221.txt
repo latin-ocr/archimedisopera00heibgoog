@@ -1,0 +1,44 @@
+DE PLANORUM AEQUILIBRIIS II. 209
+
+pars lineae ET, cuius terminus sit T, ad reliquam
+[I‚ 8].¹) iam quoniam triangulus ΑΒΓ maiorem ra—
+tionem habet ad triangulos K A Β, ΑΒΓ quam ad seg-
+menta [Eucl. V, 8] , adparet segmenti ΑΒΓ centrum
+grauitatis propius esse uertici Β quam centrum figu-
+rae inscriptae.²) et in omnibus figuris rectilineis seg-
+mentis proprie inscriptis eadem ratio ualet.
+
+VI.
+
+Dato segmento comprehenso linea recta et sectione
+coni rectanguli fieri potest, ut figura rectilinea seg-
+mento proprie inscribatur, ita ut linea inter centra
+grauitatis segmenti et figurae inscriptae posita minor
+sit quauis linea data. ’
+
+datum sit segmentum, quale diximus, ΑΒΓ, cuius
+centrum grauitatis sit Θ, et ei inscribatur proprie
+triangulus ΑΒΓ. et data linea sit Z, et sit
+
+AABP1K=Bozz
+iam segmento ΑΒΓ proprie inscribatur figura recti-
+linea Α Κ Β ΛΓ, ita ut spatia reliqua minora sint spa-
+tio K.³) et figurae inscriptae centrum grauitatis sit E. ¹
+dico, lineam ΘΕ minorem esse linea Z.
+
+nam si non est, aut aequalis est aut maior. quo·
+niam autem figura rectilinea ΑΚΒΛΓ ad segmenta
+reliqua maiorem rationem habet, quam triangulus
+
+ 
+
+1) Cfr. p. 207 not. 3.
+2) U. EutociuS.
+3) U. Eutocius ad prop. 4 p. 198, 20.
+
+F. ευθυγραμμ cum comp. ov F. 10. ἐστιν] addidi; om. F,
+uuigO. 18. Z (priusqvAZ FV. Z (alt.)] EZ FV. 22.
+τον] το cum comp. ου .
+
+Archimedes ed. Helberg. 11. 14
+

@@ -1,0 +1,43 @@
+432 ” LIBER ASSUMPTORUM.
+
+sunt aequales. et remanent GFE, GEF aequales. ergo
+OE aequalis est OF, et hoc est, quod noluimus.
+
+IV.
+
+Sit ABG semicirculus, et fiant super AC diametrum
+duo semicirculi, quorum unus AD, alter uero DO, et
+DB perpendicularis, utique figura prouenienS, quam
+uocat Archimedes Arbelon (est superficies comprehensa
+ab arcu semicirculi maioris et duabus circumferentiis
+semicirculorum minorum), est aequalis circu10, cuius
+diameter est perpendicularis DB.¹)
+
+Demonstratio. quia linea DB media proportionalis
+est inter duas lineas DA,
+
+Do [Eucl. VI, 133 Zeit-
+schrift f. Math., histor.
+Abth. XXIV p. 181 nr.
+ἑ, 16], erit planum AD in
+Do aequale quadrato DB
+
+A [Eucl. VI, 17]. et pona·
+mus AD in DC cum duobus quadratis AD, DG' com-
+muniter3 fiet planum AD in DC bis cum duobus qua-
+dratis AD, DC, nem-pe quadratum AG [Eucl. H, 4],
+aequale duplo quadrati DB cum duobus quadratis
+AD, DC. et proportio circulorum eadem est ac pro-
+portio quadratorum [Eucl. XII, 2]. ergo ¹circulus,
+cuius diameter est AG, aequalis est duplo circuli, cuius
+diameter est DB, cum duobus circulis, quorum dia-
+
+ 
+
+1) Has propositiones de arbelo (4, ὅ, 6 et 1) non dubi to
+Archimedi tribuere. roprietates arbeli antiquitus tractatas
+esse, testatur Papp us fV,19p.,208 9· ἄ οχαία προ tuaac. no-
+
+ἓξὲξ {goeffigfx si imilitudine cultelli sutorii (schol. ead Nicandri
+n
+

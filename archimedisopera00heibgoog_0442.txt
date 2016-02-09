@@ -1,0 +1,50 @@
+430 LIBER ASSUMPTORUM.
+
+prehensus angulus GDB est communis. ergo erunt
+duo anguli GDB, FBD (qui sunt pares duobus rectis)
+[Eucl. Ι, 29] aequales duobus angulis GDB, GDE.
+igitur ipsi quoque sunt aequales duobus rectis. ergo
+linea EDB est recta, et hoc cst, quod uoluimus.¹)
+
+ΙΙ.
+
+Sit CBA semicirculus, quem 120, DB tangant, et
+BE perpendicularis super A O, et iungamus AD3 erit
+BF aequalis ipsi ΓΕ.
+
+Demonstratio. iungamus AB eamque producamus
+in directum , et educamus OD, quousque illi ,occurrat
+
+in G, et iungamus OB. et
+
+⁵ quia angulus CBA est in
+semicirculo ‚ erit rectus
+
+B [Eucl. 111, 31]. remanet
+
+§V ² GBG rectus, et DBEG
+est parallelogrammum
+A& rectangulum.²) ergo in'
+triangulo ΘΒ G rectangulo
+E (⁷
+
+A ι educitur perpendicularis
+BD ex B erecta super basim, et BD, Do erunt ae-
+quales eo, quod tangunt circulum [Zeitschr. f. Math„
+hist. Abth. XXIV p. 181 nr. 151. ergo 01) est etiam
+
+aequalis ipsi DG, quemadmodum ostendimus in pro-
+
+ 
+
+1) Utitur hac propositione Pappus IV, 23 p. 214, 5. idem
+fit, ut recte adnotauit Almochtasso ‚ si circuli sese extrinsecus
+contingunt3 ‹lemensis-at Pappus VH, 176 p. 840.
+
+2) Error apertissimus est. neque enim necesse est, lineas
+BD, Do inter se perpendiculares esse, neque esse BD ψ ΑΟ
+et Dc ψ ΒΕ. propositio tamen ipsa per se uera est3 demon·
+ssmikrr‘ffenssm· . 355. errorem iam Foster notauit p. 183 con-
+
+ra ra es ugi . .
+

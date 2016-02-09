@@ -1,0 +1,42 @@
+DE LINEIS SPIRALIBUS. 103
+
+rum maxima est ΘΑ, minima autem ΘΕ, et minima
+excessui aequalis est.¹) sed etiam aliae lineae sunt,
+eae scilicet, quae a puncto Θ ad circuli ambitum duc-
+tae sunt, numero illis aequales, magnitudine autem
+singulae aequales maximae, et in omnibus similes
+sectores constructi sunt, et in iis, quae aequali spatio
+inter se excedunt, et in iis, quae inter se et maximae
+aequales sunt. sectores igitur in lineis maximae aequa-
+libus constructi minores sunt, quam triplo maiores
+sectoribus in lineis aequali spatio inter se excedenti-
+bus constructis. hoc enim demonstratum est [prop. 10
+coroll. 3]. sed sectores in lineis inter se et maximae
+aequalibus constructi aequales sunt circulo A ZH I,
+sectores autem in lineis aequali spatio inter se exce-
+dentibus constructi aequales sunt figurae circumscrip-
+tae. itaque circulus AZ HI minor est quam triplo
+
+maior figura circumscripta3 circulo autem Q triplo '
+
+maior est. itaque circulus Q minor est figura circum-
+scripta. erat autem non minor, sed maior.. quare
+spatium comprehensum spirali ΑΒΓΔ ΕΘ et linea Α Θ
+minus non est spatio Q. ¹
+
+sed ne maius quidem est. sit enim, si fieri pot-
+est, maius. itaque rursus fieri potest, ut spatio com-
+prehenso spirali ΑΒΓΔ ΕΘ et linea Α Θ figura in-
+scribatur, ita ut spatium, quod commemorauimUS,
+figuram inscriptam excedat spatio minore, quam quanto
+spatium illud circulum 0· excedit [prop. 21 coroll.].
+
+ 
+
+1) Lineas ΘΕ, ΘΔ, ΘΓ, ΘΒ cett. aequali spatio inter se
+excedere, adparet ex prop. 12, quia angulos aequales faciunt.
+lineam autem ΘΕ excessui aequalem esse, siue ΘΕ == ᾗΘΔ,
+
+sequitur ex prop. 13 nam cum anguli aequales sint, tempus
+tempore duplo maius est.
+

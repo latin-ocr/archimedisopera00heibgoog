@@ -1,0 +1,47 @@
+QUADRATURA PARABOLAE. 341
+XX.
+
+Si segmento linea recta et coni rectanguli sectione
+comprehenso triangulus inscribitur eandem basim ha-
+bens, quam segmentum, et altitudinem eandem, trian-
+gulus inscriptus maior erit dimidia parte segmenti.
+
+sit enim ΑΒΓ segmentum, quale diximus, et ei
+inscribatur triangulus ΑΒΓ eandem basim habene,
+quam totum [segmentum], et altitudinem aequalem.
+quoniam igitur triangulus eandem basim habet, quam
+segmentum, et altitudinem eandem, necesse est, punc-
+
+— tum B uerticem esse segmenti.¹) itaque ΑΓ lineae in
+
+Β sectionem contingenti parallela est.²) ducatur per
+punctum B lineae ΑΓ parallela linea A E, et a punc-
+tis A, Γ diametro parallelae lineae ΑΔ, ΓΕ. cadent
+igitur extra segmentum.³) quoniam igitur
+
+ABP= {AAEP [Eucl. I, 41),
+manifestum est, maiorem eum esse dimidia parte
+segmenti.
+
+COROLLARIU'M.
+
+Hoc demonstrato adparet, fieri posse, ut tali seg-
+mento polygonum inscribatur, ita ut segmenta reliqua
+minora sint quouis spatio dato, nam si semper spa-
+tium, quod propter hanc propositionem [20] maius est
+
+ 
+
+1) Nam altitudo trianguli linea est a Β ad ΑΓ perpendi-
+
+cularis , quae cum etiam segmenti sit altitudo, maxima erit .
+
+linearum a sectione ad ΑΓ perpendicularium (p. 336, 14)3 tum
+
+ιιΡ2)3911511111511111111. a B diametro parallela ducta lineam ΑΓ 111
+duas partes aequales diuidet (per conuersam prop. 18· cfr. prop.
+1⁷ p. 334, 25); tumu. prop. 1, b.
+
+3) Περὶ κωνοειὸ. 163 zeitschr. f. Math„ hist. Abth. XXV
+p. 53 nr. 19.
+

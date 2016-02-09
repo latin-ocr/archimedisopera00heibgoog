@@ -1,0 +1,54 @@
+DE LINEIS SPIRALIBUS. 19
+
+Si duo puncta in sua quodque linea sibi ipsa
+aequabiliter feruntur, et in utraque linea duae lineae
+sumuntur, quarum linearum et priores et posteriores
+aequalibus temporibus a punctis permeentur, lineae
+sumptae eandem inter se rationem habebunt.
+
+feratur in linea AB punctum aliquod sibi ipsum
+aequabiliter, et in linea K A aliud punctum eodem
+modo. sumantur autem in linea AB duae lineae
+ΓΔ, ΔΕ, ‘et in linea K A lineae ZH, ΗΘ, et punctum,
+quod in linea AB fertur, eodem tempore lineam ΓΛ
+permeet, quo alterum punctum, quod in linea K A
+fertur, lineam ZH permeat. et eodem modo etiam
+lineam A E eodem tempore permeet punctum, quo
+alterum lineam ΗΘ permeat. demonstrandum est,
+esse PA: AE=== ZH: ΗΘ.
+
+tempus igitur, quo punctum lineam ΓΛ permeauit,
+sit MN. itaque hoo tempore alierum punctum lineam
+ΖΗ permeat. rursus autem tempus , quo punctum
+lineam AE permeauit, sit N Ξ. hoe igitur tempore
+etiam alterum punctum lineam ΗΘ permeat. eriss
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Α Γ Δ Ε Β
+ι -ι------.--;
+
+Α Ζ Η Θ K
+
+———-—1-—-———-—-—1—- ι---
+
+{n— N Ξ
+
+igitur ΓΛ 2 ΛΕ--. MN: ΝΞ et ΖΗιΗΘ--ΜΜΝΞ
+[prop. 1]. adparet igitur, esse I'A: ΔΕ == ZH ε ΗΘ.
+
+10. τᾶ] τω F3 corr. B. 14. ἐνηνεγμένῠν] scripsi3 ηνεγμε-
+νον F, uulgo. 15. σαμεῑονΪείο F, ut. lin. 12. 21. δέ] Το-
+rellius; δη F, uulgO. 25. ποτί] (prius) προς per comp. F;
+corr. (Perellius, 26. Ν Ξ] ΜΞ F. 27. εχωντι F.
+
+2*
+

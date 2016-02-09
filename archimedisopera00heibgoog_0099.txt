@@ -1,0 +1,44 @@
+DE mes SPIRALIBUS. 87
+
+etiam erit [Eucl. V, 16] ΕΡ : AP= AP:AA.1) sed
+
+A Ρ ad ΑΛ minorem rationem habet, quam arcus ΔΡ
+’ ad arcum ΚΜΔ, quoniam linea ΛΡ minor est arcu
+ΛΡ, linea autem AA maior arcu ΚΜΔ [ex hypo-
+thesij. itaque ΕΡ ad PA minorem rationem habet,
+quam arcus ΔΡ ad arcum ΚΜΔ. quare etiam ΑΕ
+ad Α Ρ minorem rationem habet, quam arcus Κ Μ Ρ
+ad arcum K Μ A.²) sed quam rationem habet arcus
+KMP ad arcum KMA, eam habet XAzAA [prop. 14].
+erit igitur EA: ΑΡ< AX: AA3 quod fieri non pot·
+θεά-..3) quare linea ZA arcu K M A maior non est. et
+eodem mode, quo supra, demonstrabimuS, ne minorem
+quidem eam esse. itaque aequalis ent.
+
+COROLLARIUM.
+
+Eodem autem modo demonstrabimuS, etiam si spi·
+ralem secunda circumactione descriptam linea contingat
+extra terminum spirans, et cetera eadem comparentur,
+lineam in contingentem incurrentem inter punctum
+concursionis et principium spiralis comprehensam ae-
+qualem esse toti ambitui circuli descripti et praeterea
+arcui inter puncta, quae commemorauimus [p. 82, 24]‚
+comprehenSO, arcu eodem modo sumpto. et etiam si
+spiralem qualibet circumactione descriptam linea con·
+tingat extra terminum spiralis, et cetera eadem com-
+
+ 
+
+1) Nam ΔΑ == ΑΡ.
+2) συνθέντις u. p. 67 not. 2.
+3) Nam AP== ΔΑ et EA > AX3 tum u. Eucl. V, 8.
+
+ 
+
+ 
+
+F, uulgo; om. B. 21. συμπιπτούσας Torellius. τᾶς τε
+συμπτῶσιος] addidi3 om. F, uulgo, 22. καί] ἀπό ed. Basil„
+Torellius. 26. arcemone F3 corr. A.
+

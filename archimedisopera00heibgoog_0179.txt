@@ -1,0 +1,40 @@
+DE PLANORUM AEQUILIBRIIS etc. 167
+
+autem lineas ΑΓ, ΒΔ eodem modo diuidens. itaque
+centrum grauitatis parallelogrammi ΑΒΓΔ in linea
+EZ positum est3 hoc enim demonstratum est [prop. 9J.
+sed eadem de causa etiam in linea K A est. itaque
+punctum Θ centrum grauitatis est. in Θ autem puncto
+diametri parallelogrammi concurrunt.¹) quare demon-
+stratum est, quod proposuimuS.
+
+ALITER.
+
+Sed etiam aliter idem demonstrari potest.
+
+parallelogrammum sit ΑΒΓΔ, et diametrus eius sit
+ΔΒ. itaque 'trianguli AB A, ΒΔΓ aequales et simi-
+les sunt [Eucl. 1, 34]. quare triangulis inter se con-
+gruentibus etiam centra grauitatis eorum congruent
+
+1ῑῖ
+
+{postuL 4]. sit igitur punctum E centrum grauitatis
+trianguli AB A, et ducatur linea ΕΘ et producatur,
+et abscindatur ΖΘ aequalis lineae ΘΕ. itaque trian-
+gulo ABA cum triangulo ΒΔΓ congruente et posito
+latere AB in ΔΓ et A A in ΒΓ, etiam linea ΘΕ cum
+ΖΘ congruet, et punctum E in Z cadet. uerum etiam
+in centrum grauitatis trianguli ΒΔΓ cadet [postul. 4.
+itaque punctum Z centrum grauitatis est trianguli
+
+ 
+
+1) Fortasse scribendum συμ m ’πτ tvo alin. 5. ceterum cfr.
+Zeitschr. fiir Math„ hist. Abth. XXIV p. 180 nr. 10.
+
+ 
+
+F, uulgo, 16. ΑΒΔ] ΑΒΓΔ FV.1⁷.BAP]AAP FV.
+18. εφαρμοζει F, uulg0; ἐφαρμόσει Toranius.
+

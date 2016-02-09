@@ -1,0 +1,33 @@
+444 LIBER ASSUMPTORUM.
+
+rum diametri sunt ΘΓ, ΑΟ. sed circulus, cuius dia-
+meter AG, est ⁸ aequalis duobus semicirculis AG, BD.
+ergo si auferamus ex illis duos semicirculos AG, BD,
+'qui sunt communes, remanet figura contenta a quattuor
+semicirculis AB, OD, DB, AO (quae ea est, quam
+uocat Archimedes Salinon) aequalis circulo, cuius dia-
+meter est FG. et hoc est, quod uoluimus.
+
+XV.
+
+Si fuerit A B semicirculus, et AG chorda penta·
+⁸goni, et semissis arcus AG sit AD, iungatur OD et
+producatur, ut cadat super E, et iungatur DB, quae
+secet CA in F, et ducatur ex F perpendicularis FG
+super AB ε erit linea EG aequalis semidiametro circuli,
+
+iungamus itaque lineam OB, et sit centrum H, et
+iungamus HD, DG et AD. et quia angulus ABG,
+
+4·
+
+Ζ ,Δ ᾧ Π B
+
+cuius basis est latus pentagoni, est duae quintae par-
+tes recti [Eucl. III, 20]‚ quilibet duorum angulorum
+CBD, DBA est quinta pars recti. et angulus DHA
+duplus est anguli DBH [Eucl. m, 2o]; ergo angulus
+ΒΗ A est duae quintae partes recti.- et quia in duo-
+bus triangulis GBF, GR F duo anguli B sunt aequa·
+les, et G, 0 recti, et latus FB coinmune, erit Bo
+

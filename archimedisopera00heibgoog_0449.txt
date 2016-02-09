@@ -1,0 +1,35 @@
+LIBER ASSUMPTORUM. 437
+
+ipsi ΑΕ, quae est ei aequalia· et quia quadratum AB
+duplum est quadrati ΑΕ [Eucl. 1, 47] siue Do, et
+proportio quadratorum ex diametris circulorum est
+
+ 
+
+eadem proportioni circuli ad circulum [Eucl. XII, 21,
+igitur circulus AB duplus est circuli Οὓς et hoc est,
+quod noluimus,
+
+VIII.
+
+Si egrediatur in circulo linea AB ubicunque, et
+producatur in directum, et ponatur Bo aequalis semi-
+diametro circuli, et iungatur ex G ad centrum circuli,
+quod est D, et producatur ad E, erit arcus ΑΕ triplus
+arcus BF. '
+
+· educamus igitur E G parallelam ipsi AB, et iun·
+gamus DB, DG. et quia
+
+Vssduo anguli ΒΕΘ, DGE sunt
+
+· aequales, erit angulus GDO
+duplus anguli ΒΕΘ- [Eucl. Ι,
+32]. et quia angulus B DC
+
+ὅ aequalis est angulo BGD, et
+angulus GEG aequalis est
+angulo AGE [Eucl. 1, 29], erit angulus GDG duplus
+
+   
+

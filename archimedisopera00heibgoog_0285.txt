@@ -1,0 +1,40 @@
+ARENARIUS. 2 73
+
+in proportione, ab unitate uero distabit uno paucioreS,
+quam quantus numerus est utrorumque, quos numeri
+inter se multiplicati ab unitate distant. sint enim 7
+numeri aliquot A, Β, Γ, A, E, Ζ, Η, Θ, Ι, Κ, Λ ab uni-
+tate in eadem proportione positi, et unitas sit A. et
+multiplicentur A, Θ, et productum sit X. sumatur
+igitur ex proportione A ab Θ tot numeros dietam,
+quot Δ ab unitate distat. demonstrandum, esse X = A.
+iam quoniam inter numeros inter se proportionales Δ
+ab A tot loca abest, quot A ab Θ, erit igitur
+
+A: A= Λ· Θ.
+sed A= A><A. quareA= Δ><Θ. quareA= —.X
+adparet igitur, productum et ex eadem proportione esse 8
+et a maiore numerorum inter se multiplicatorum tot
+loea abesse, quot minor ab unit-ate absit. manifestum
+est autem, productum etiam ab unitate uno pauciora
+loca abesse, quam quantus est numerus utrorumque
+locorum, quae ab unitate absunt A, Θ. nam A, Β,
+Γ, A, E, Ζ, Η, Θ tot sunt, quot Θ ab unitate abest,
+et Ι, Κ, Λ 11110 pauciores , quam quot A ab unitate
+abest3 nam adsumpto Θ totidem sunt.¹)
+
+ 
+
+1) De hae propositione cfr. Quaest. Areh. p. 58. nos si 0
+1 2 3
+
+idem demonstraremus· sit series 1, a¹‚ α’, . . . απ 0-1,
+nil-1 m÷l m-l-2 m÷n -Ι-1
+.,σι17η am†1‚....am-l-⁷⁸.·
+
+itaque an. am == arn-hh, quod ab am abest loca. (π 4- 1), ab
+
+unitate uerom÷n÷1’=(m÷1)÷(n÷1)÷1.
+
+Archimedes, ed. Heiberg. 11. 18
+
